@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Nagy István",
+        "age": 22,
+        "job": "programmer",
+        "address": "Bp. XXII. Nagy Géza út 11. 3em. 4."
+    },
+    {
+        "id": 2,
+        "name": "Kiss Emily",
+        "age": 24,
+        "job": "programmer",
+        "address": "Bp. XXII. Nagy Géza út 11. 3em. 4."
+    },
+    {
+        "id": 3,
+        "name": "Varga Eszter",
+        "age": 29,
+        "job": "programmer",
+        "address": "Bp. XXII. Nagy Géza út 11. 3em. 4."
+    },
+    {
+        "id": 4,
+        "name": "John Smith",
+        "age": 20,
+        "job": "programmer",
+        "address": "Bp. XXII. Nagy Géza út 11. 3em. 4."
+    }
+]
